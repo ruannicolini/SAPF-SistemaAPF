@@ -78,7 +78,7 @@ ________________________________________________________________________________
 
 ##Interface Sobre
 
-O sistema SAPF foi desenvolvido pelos alunos da turma M19 do curso de Sistema de informação do Instituto Federal do Espírito Santo com intuito de desenvolver tecnologia para que os profissionais da área possam se beneficiar, fazendo uma estimativa de software adequada para seus projetos.
+O sistema SAPF foi desenvolvido pelos alunos da turma M19 do curso de Sistema de informação do Instituto Federal do Espírito Santo com intuito de desenvolver tecnologia para que profissionais da área possam se beneficiar, fazendo uma estimativa de software adequada para seus projetos.
 
 
 ![sapf_sobre](https://cloud.githubusercontent.com/assets/6893004/21557735/d246812e-ce17-11e6-947d-ee8f944a5adf.png)
