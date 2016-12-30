@@ -32,12 +32,12 @@ Mediante a inclusão dessas informações, o sistema calcula a Complexidade e a 
 _______________________________________________________________________________________________________________________
 
 ##Interface Consultar Projetos
-Por padrão, a pasta xmls, situada dentro do repositório do sistema SAPF, guarda os arquivos dos projetos cadastrados. 
-É necessário clicar em IMPORTAR e selecionar a pasta onde se encontra seu projeto.
+Recomenda-se a criação da pasta xmls dentro do repositório do sistema SAPF, onde os arquivos dos projetos cadastrados deverão ser salvos. 
+É necessário clicar em IMPORTAR e selecionar A PASTA onde se encontra seus projetos. Os projetos serão listados, conforme figura a baixo.
 
 ![sapf_consultarprojetos](https://cloud.githubusercontent.com/assets/6893004/21557704/787c001a-ce17-11e6-81e1-7b77b4ff4204.png)
 
-Os Projetos serão listados. Com um duplo click, a interface de resumo do projeto se abrirá.
+Com um duplo click, a interface de resumo do projeto se abrirá.
 
 _______________________________________________________________________________________________________________________
 
