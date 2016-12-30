@@ -1,4 +1,4 @@
-# SAPF - Sistema Para Análise Por Ponto de Função
+# SAPF - Sistema Para Análise de Ponto de Função
 
 "Análise de Pontos de Função (APF) é uma técnica para a medição de projetos de desenvolvimento de software, visando a estabelecer uma medida de tamanho, em Pontos de Função (PF), considerando a funcionalidade implementada."
 _______________________________________________________________________________________________________________________
